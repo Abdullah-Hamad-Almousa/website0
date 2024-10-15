@@ -1,0 +1,14 @@
+type: Poppins
+from: Google
+
+size and style:
+Regular 400
+medium 500
+semi-bold 600
+bold 700
+
+youtube website https://www.youtube.com/watch?v=ECCkauQKb7M
+
+pitch my self
+
+Passionate ML developer with expertise in Python, TensorFlow, and data analysis.
